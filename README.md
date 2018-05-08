@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to my site full of projects I used to prepare for General Assembly
 
-You can use the [editor on GitHub](https://github.com/katemayo/GAprep/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1. I created a blog [homepage here](https://katemayo.github.io/GAprep/PersonalWebsite.html).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2. I created a goals [homepage here](https://katemayo.github.io/goals.html).
 
-### Markdown
+3. I created a [Brown Bear info page](https://katemayo.github.io/GAprep/BrownBear.html).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+4. I created an [about me page](https://katemayo.github.io/GAprep/aboutme.html).
 
-```markdown
-Syntax highlighted code block
+5. I created a [NYFW Blog](https://katemayo.github.io/NYFWBlog.html).
 
-# Header 1
-## Header 2
-### Header 3
+6. I created a [blogpage](https://katemayo.github.io/GAprep/blogpage.html).
 
-- Bulleted
-- List
+7. I created a [GIF getter](https://katemayo.github.io/GAprep/creategif.html).
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/katemayo/GAprep/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+8. I created a [recipe site](https://katemayo.github.io/GAprep/recipes.html).
