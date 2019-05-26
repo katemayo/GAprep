@@ -8,7 +8,7 @@
 
 4. I created an [about me page](https://katemayo.github.io/GAprep/aboutme.html).
 
-5. I created a [NYFW Blog](https://katemayo.github.io/NYFWBlog.html).
+5. I created a [NYFW Blog](https://katemayo.github.io/GAprep/NYFWBlog.html).
 
 6. I created a [blogpage](https://katemayo.github.io/GAprep/blogpage.html).
 
